@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "PgJ/B4W49cEt2I2t0z6Ww87mXyXo3iT6pwKfklPl1iGhpAMfpZTuX2aVsIVjFRbvD7HXuVMk9TXiYmh4xhVvoQ==",
+  "success": false,
+  "projectFilePath": "D:\\Постоюк\\Lab2\\Lab2\\CPP_Lab2.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Для некоторых целевых платформ отсутствует требуемая версия, несмотря на то, что указана платформа: net7.0-android, net7.0-ios, net7.0-maccatalyst."
+    }
+  ]
+}
